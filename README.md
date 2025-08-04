@@ -81,7 +81,7 @@ If an unknown face is detected, an alert is triggered (console/log/sound/etc.).
 
 🙋‍♂️ Author & Contact
 👨‍💻 Developed by: DARSHANGOWDA-S and team
-📧 Email: darshangowda@gmail.com
+📧 Email: darshangowda4618@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/darshans2003
 🐙 GitHub: https://github.com/DARSHANGOWDA-S
 
