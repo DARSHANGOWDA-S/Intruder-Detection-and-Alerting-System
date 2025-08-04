@@ -91,6 +91,6 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Chandrashekhar D**
-[GitHub Profile](https://github.com/chandrashekhard17)
+**DARSHANGOWDA-S**
+[GitHub Profile](https://github.com/chandrashekhard17](https://github.com/DARSHANGOWDA-S))
 
